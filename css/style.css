@@ -63,7 +63,7 @@ body{
 
 .portfolio .filter-btn ul li{
   display: inline-block;
-  background-color: var(--dc-);
+  background-color: #28a745;
   padding: 5px 15px;
   color: #fff;
   border-radius: 5px;
