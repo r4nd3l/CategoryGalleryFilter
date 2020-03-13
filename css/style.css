@@ -44,6 +44,8 @@ body{
   margin: 0px 0px 20px;
   text-align: center;
   text-transform: uppercase;
+  background: var(--dc-);
+  border-radius: 5px;
 }
 
 .portfolio .filter-btn{
